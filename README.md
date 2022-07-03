@@ -1,7 +1,7 @@
 ### Olá, eu sou a Vitória Teixeira.
 
 <h2>Sobre mim</h2>
-<p>Sou estudante de Tecnologia em Sistemas para internet, entusiasta da tecnologia e estou iniciando minha carreira na programação.</p>
+<p>:mortar_board:</p>
  <div>
   <a href = "mailto:teixeiravitoria057@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vit%C3%B3ria-teiixeiira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
