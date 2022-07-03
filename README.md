@@ -2,7 +2,7 @@
 
 <h2>Sobre mim</h2>
 <p>:mortar_board: Cursando Sistemas para Internet no IFB. </br>
-   :bulb: Entusiasta da tecnologia.</br>
+   :blue_heart: Entusiasta da tecnologia.</br>
    :rocket: Iniciando minha carreira na programação.</br>
 </p>
  <div>
