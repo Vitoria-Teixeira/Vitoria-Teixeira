@@ -1,4 +1,4 @@
-### Olá, eu sou a Vitória Teixeira.
+### Olá, eu sou a Vitória.
 
 <h2>Sobre mim</h2>
 <p>:mortar_board: Cursando Sistemas para Internet no IFB. </br>
