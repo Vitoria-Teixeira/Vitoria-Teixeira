@@ -1,9 +1,9 @@
 ### Olá, eu sou a Vitória Teixeira.
 
 <h2>Sobre mim</h2>
-<p>:mortar_board: Cursando Sistemas para Internet no IFB.
-   :bulb: Entusiasta da tecnologia.
-   :rocket: Iniciando minha carreira na programação.
+<p>:mortar_board: Cursando Sistemas para Internet no IFB. </br>
+   :bulb: Entusiasta da tecnologia.</b>
+   :rocket: Iniciando minha carreira na programação.</br>
 </p>
  <div>
   <a href = "mailto:teixeiravitoria057@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
