@@ -1,6 +1,6 @@
 ### Olá, eu sou a Vitória.
 
-<h2>Sobre mim</h2>
+<h2>About me</h2>
 <p>:mortar_board: Cursando Sistemas para Internet no IFB. </br>
    :blue_heart: Entusiasta da tecnologia.</br>
    :rocket: Desenvolvedora Front-End.</br>
@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/vitoria-teiixeiira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  </div>
  
- <h2>Linguagens e ferramentas</br>
+ <h2>Languages and Tools</br>
  
  <div style="display: inline_block"><br>
     <img  align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
