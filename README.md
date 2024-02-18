@@ -5,13 +5,13 @@
    :rocket: Desenvolvedora Front-End.</br>
 </p>
 
- <div>
+ <div align="center">
    <a href="https://github.com/vitoriateixeiraa/github-readme-stats">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vitoriateixeiraa" />
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=vitoriateixeiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
    </a>
    <a href="https://github.com/vitoriateixeiraa/convoychat">
-   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoriateixeiraa&layout=compact&langs_count=8&card_width=320" />
-   </a>
+   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoriateixeiraa&layout=compact&langs_count=8&card&theme=dracula" />
+   </a> tokyonight
  </div>
  
  <h2>Languages and Tools</br>
