@@ -5,6 +5,9 @@
    :rocket: Desenvolvedora Front-End.</br>
 </p>
 
+ 
+ <h2>Languages and Tools</br>
+ 
  <div align="center">
    <a href="https://github.com/vitoriateixeiraa/github-readme-stats">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriateixeiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
@@ -13,8 +16,6 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoriateixeiraa&layout=compact&langs_count=8&card&theme=dracula" />
    </a>
  </div>
- 
- <h2>Languages and Tools</br>
  
  <div style="display: inline_block"><br>
     <img  align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
