@@ -1,26 +1,27 @@
 ### Olá, eu sou a Vitória.
 
 <h2>About me</h2>
-<p>:mortar_board: Cursando Sistemas para Internet no IFB. </br>
-   :blue_heart: Entusiasta da tecnologia.</br>
+<p>
    :rocket: Desenvolvedora Front-End.</br>
 </p>
+
  <div>
-  <a href = "mailto:teixeiravitoria057@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitoria-teiixeiira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+   <a href="https://github.com/vitoriateixeiraa/github-readme-stats">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vitoriateixeiraa" />
+   </a>
+   <a href="https://github.com/vitoriateixeiraa/convoychat">
+   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoriateixeiraa&layout=compact&langs_count=8&card_width=320" />
+   </a>
  </div>
  
  <h2>Languages and Tools</br>
  
  <div style="display: inline_block"><br>
-    <img  align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img  align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     <img align="center" alt="typescript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
    <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-
-
-          
  </div>
