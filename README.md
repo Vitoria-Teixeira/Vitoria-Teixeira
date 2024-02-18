@@ -10,9 +10,9 @@
  </div>
 
  
- <h2 style="display: inline_block">Languages and Tools</br>
+ <h2>Languages and Tools</br>
  
- <div align="center">
+ <div align="center" style="display: inline_block">
    <a href="https://github.com/vitoriateixeiraa/github-readme-stats">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoriateixeiraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
    </a>
