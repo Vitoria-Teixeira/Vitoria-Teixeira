@@ -10,7 +10,7 @@
  </div>
 
  
- <h2>Languages and Tools</br>
+ <h2 style="display: inline_block">Languages and Tools</br>
  
  <div align="center">
    <a href="https://github.com/vitoriateixeiraa/github-readme-stats">
