@@ -11,7 +11,7 @@
    </a>
    <a href="https://github.com/vitoriateixeiraa/convoychat">
    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitoriateixeiraa&layout=compact&langs_count=8&card&theme=dracula" />
-   </a> tokyonight
+   </a>
  </div>
  
  <h2>Languages and Tools</br>
